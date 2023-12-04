@@ -20,7 +20,7 @@ def index():
     g= request.args['a7']
     h= request.args['a8']
     i= request.args['a9']
-    print(a,b,c,d,e,f,g,h,i)
+  #  print(a,b,c,d,e,f,g,h,i)
     score=90
  
     if h=="technical" : 
